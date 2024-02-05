@@ -25,7 +25,7 @@ def saiya():
     if opt == '1':
         menu()
     if None == '2':
-        os.system('https://www.facebook.com/profile.php?id=100086536616134)
+        os.system('xdg-open https://www.facebook.com/profile.php?id=100086536616134)
         return None
     if None == '0':
         os.system('exit')
